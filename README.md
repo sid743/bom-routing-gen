@@ -50,3 +50,7 @@ numbers in two level columns (left-most is used), several level-0 parts, or no Q
 
 Not supported: parent–child (adjacency) lists with a "Level" number column, and old .xls
 files (save as .xlsx).
+
+## Hosting
+
+To run it on an Azure VM (HTTPS + login, ~$5/month on Azure for Students), see [DEPLOY.md](DEPLOY.md).
